@@ -8,9 +8,9 @@ body {background-color:#F5DA81;
 }
 .pt-wt {width: 800px; color: #E6E6E6;
 }
-#hills{width: 248px; height: 185px; padding: 20px;
+#hills{width: 248px; height: 185px; padding: 20px; float: left;
 }
 #vermont{width: 248px; height: 185px; padding: 20px;
 }
-#comp{width: 248px; height: 185px; padding: 20px; float: right;
+#comp{width: 248px; height: 185px; padding: 20px;
 }
