@@ -1,9 +1,10 @@
 body {background-color:#F5DA81; 
-      color: #E6E6E6;
 }
 #buttons {width: 800px;
 }
 .bt-space {width: 200px; text-align: center;
 }
 #p-wt {width: 800px;
+}
+#pt-wt {width: 800px; color: #E6E6E6;
 }
